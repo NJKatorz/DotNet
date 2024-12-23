@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LINQ_DataContext/1.0.0": {
+        "runtime": {
+          "LINQ_DataContext.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ_DataContext/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,129 @@
+C:\Users\oli\test\WpfEmployee\bin\Debug\net6.0-windows\WpfEmployee.exe
+C:\Users\oli\test\WpfEmployee\bin\Debug\net6.0-windows\WpfEmployee.deps.json
+C:\Users\oli\test\WpfEmployee\bin\Debug\net6.0-windows\WpfEmployee.runtimeconfig.json
+C:\Users\oli\test\WpfEmployee\bin\Debug\net6.0-windows\WpfEmployee.dll
+C:\Users\oli\test\WpfEmployee\bin\Debug\net6.0-windows\WpfEmployee.pdb
+C:\Users\oli\test\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.csproj.AssemblyReference.cache
+C:\Users\oli\test\WpfEmployee\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\oli\test\WpfEmployee\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\oli\test\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee_MarkupCompile.cache
+C:\Users\oli\test\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee_MarkupCompile.lref
+C:\Users\oli\test\WpfEmployee\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\oli\test\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.g.resources
+C:\Users\oli\test\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oli\test\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.AssemblyInfoInputs.cache
+C:\Users\oli\test\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.AssemblyInfo.cs
+C:\Users\oli\test\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.csproj.CoreCompileInputs.cache
+C:\Users\oli\test\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.dll
+C:\Users\oli\test\WpfEmployee\obj\Debug\net6.0-windows\refint\WpfEmployee.dll
+C:\Users\oli\test\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.pdb
+C:\Users\oli\test\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.genruntimeconfig.cache
+C:\Users\oli\test\WpfEmployee\obj\Debug\net6.0-windows\ref\WpfEmployee.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\WpfEmployee.exe
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\WpfEmployee.deps.json
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\WpfEmployee.runtimeconfig.json
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\WpfEmployee.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\WpfEmployee.pdb
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.csproj.AssemblyReference.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\App.g.cs
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee_MarkupCompile.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee_MarkupCompile.lref
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\Views\MainWindow.baml
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.g.resources
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.AssemblyInfoInputs.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.AssemblyInfo.cs
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.csproj.CoreCompileInputs.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmplo.B82AB3C8.Up2Date
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\refint\WpfEmployee.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.pdb
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.genruntimeconfig.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\09 - WPF - MVVM  (1)-20241120\Exercice\WpfEmployee\obj\Debug\net6.0-windows\ref\WpfEmployee.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\WpfEmployee.exe
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\WpfEmployee.deps.json
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\WpfEmployee.runtimeconfig.json
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\WpfEmployee.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\WpfEmployee.pdb
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.csproj.AssemblyReference.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\App.g.cs
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee_MarkupCompile.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee_MarkupCompile.lref
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\Views\MainWindow.baml
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.g.resources
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.AssemblyInfoInputs.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.AssemblyInfo.cs
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.csproj.CoreCompileInputs.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmplo.B82AB3C8.Up2Date
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\refint\WpfEmployee.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.pdb
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\WpfEmployee.genruntimeconfig.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\obj\Debug\net6.0-windows\ref\WpfEmployee.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Castle.Core.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\10 - WPF - MVVM (2)-20241219\Exercice\WpfEmployee\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll

@@ -1,0 +1,14 @@
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\04 -Delegate-20241007\Semaine4\obj\Debug\net8.0\Semaine4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\04 -Delegate-20241007\Semaine4\obj\Debug\net8.0\Semaine4.AssemblyInfoInputs.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\04 -Delegate-20241007\Semaine4\obj\Debug\net8.0\Semaine4.AssemblyInfo.cs
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\04 -Delegate-20241007\Semaine4\obj\Debug\net8.0\Semaine4.csproj.CoreCompileInputs.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\04 -Delegate-20241007\Semaine4\bin\Debug\net8.0\Semaine4.exe
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\04 -Delegate-20241007\Semaine4\bin\Debug\net8.0\Semaine4.deps.json
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\04 -Delegate-20241007\Semaine4\bin\Debug\net8.0\Semaine4.runtimeconfig.json
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\04 -Delegate-20241007\Semaine4\bin\Debug\net8.0\Semaine4.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\04 -Delegate-20241007\Semaine4\bin\Debug\net8.0\Semaine4.pdb
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\04 -Delegate-20241007\Semaine4\obj\Debug\net8.0\Semaine4.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\04 -Delegate-20241007\Semaine4\obj\Debug\net8.0\refint\Semaine4.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\04 -Delegate-20241007\Semaine4\obj\Debug\net8.0\Semaine4.pdb
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\04 -Delegate-20241007\Semaine4\obj\Debug\net8.0\Semaine4.genruntimeconfig.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\04 -Delegate-20241007\Semaine4\obj\Debug\net8.0\ref\Semaine4.dll

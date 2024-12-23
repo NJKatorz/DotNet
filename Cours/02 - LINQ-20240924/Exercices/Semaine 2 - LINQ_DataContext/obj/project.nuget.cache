@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UCYZDaZShc8=",
+  "success": true,
+  "projectFilePath": "D:\\Ecole\\OneDrive - Haute Ecole Léonard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\02 - LINQ-20240924\\Exercices\\Semaine 2 - LINQ_DataContext\\LINQ_DataContext.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

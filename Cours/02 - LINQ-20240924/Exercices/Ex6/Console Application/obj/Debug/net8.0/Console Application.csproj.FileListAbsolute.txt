@@ -1,0 +1,14 @@
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Ex6\Console Application\bin\Debug\net8.0\Console Application.exe
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Ex6\Console Application\bin\Debug\net8.0\Console Application.deps.json
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Ex6\Console Application\bin\Debug\net8.0\Console Application.runtimeconfig.json
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Ex6\Console Application\bin\Debug\net8.0\Console Application.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Ex6\Console Application\bin\Debug\net8.0\Console Application.pdb
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Ex6\Console Application\obj\Debug\net8.0\Console Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Ex6\Console Application\obj\Debug\net8.0\Console Application.AssemblyInfoInputs.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Ex6\Console Application\obj\Debug\net8.0\Console Application.AssemblyInfo.cs
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Ex6\Console Application\obj\Debug\net8.0\Console Application.csproj.CoreCompileInputs.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Ex6\Console Application\obj\Debug\net8.0\Console Application.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Ex6\Console Application\obj\Debug\net8.0\refint\Console Application.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Ex6\Console Application\obj\Debug\net8.0\Console Application.pdb
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Ex6\Console Application\obj\Debug\net8.0\Console Application.genruntimeconfig.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Ex6\Console Application\obj\Debug\net8.0\ref\Console Application.dll

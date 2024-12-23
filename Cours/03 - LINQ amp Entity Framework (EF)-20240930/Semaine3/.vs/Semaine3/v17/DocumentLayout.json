@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\03 - linq amp entity framework (ef)-20240930\\semaine3\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\03 - linq amp entity framework (ef)-20240930\\semaine3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\03 - linq amp entity framework (ef)-20240930\\semaine3\\models\\productsbycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|solutionrelative:models\\productsbycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\03 - linq amp entity framework (ef)-20240930\\semaine3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\03 - linq amp entity framework (ef)-20240930\\semaine3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\03 - linq amp entity framework (ef)-20240930\\semaine3\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\03 - linq amp entity framework (ef)-20240930\\semaine3\\models\\territory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|solutionrelative:models\\territory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\03 - linq amp entity framework (ef)-20240930\\semaine3\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|solutionrelative:models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\03 - linq amp entity framework (ef)-20240930\\semaine3\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|solutionrelative:models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\03 - linq amp entity framework (ef)-20240930\\semaine3\\models\\salestotalsbyamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|solutionrelative:models\\salestotalsbyamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\03 - linq amp entity framework (ef)-20240930\\semaine3\\models\\productsalesfor1997.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|solutionrelative:models\\productsalesfor1997.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\03 - linq amp entity framework (ef)-20240930\\semaine3\\models\\salesbycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|solutionrelative:models\\salesbycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\03 - linq amp entity framework (ef)-20240930\\semaine3\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE544663-404A-469B-ABC9-A81B69FDC199}|Semaine3.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAAAMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:10:20.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:51:11.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Region.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\Region.cs",
+              "RelativeDocumentMoniker": "Models\\Region.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\Region.cs",
+              "RelativeToolTip": "Models\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:26:27.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductSalesFor1997.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\ProductSalesFor1997.cs",
+              "RelativeDocumentMoniker": "Models\\ProductSalesFor1997.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\ProductSalesFor1997.cs",
+              "RelativeToolTip": "Models\\ProductSalesFor1997.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:58:45.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:00:01.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvwUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:06:06.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Territory.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\Territory.cs",
+              "RelativeDocumentMoniker": "Models\\Territory.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\Territory.cs",
+              "RelativeToolTip": "Models\\Territory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:28:24.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "Models\\NorthwindContext.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\NorthwindContext.cs",
+              "RelativeToolTip": "Models\\NorthwindContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAvwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:04:18.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsByCategory.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\ProductsByCategory.cs",
+              "RelativeDocumentMoniker": "Models\\ProductsByCategory.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\ProductsByCategory.cs",
+              "RelativeToolTip": "Models\\ProductsByCategory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:04:43.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:25:54.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesTotalsByAmount.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\SalesTotalsByAmount.cs",
+              "RelativeDocumentMoniker": "Models\\SalesTotalsByAmount.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\SalesTotalsByAmount.cs",
+              "RelativeToolTip": "Models\\SalesTotalsByAmount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:52:08.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalesByCategory.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\SalesByCategory.cs",
+              "RelativeDocumentMoniker": "Models\\SalesByCategory.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\SalesByCategory.cs",
+              "RelativeToolTip": "Models\\SalesByCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:51:40.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\03 - LINQ amp Entity Framework (EF)-20240930\\Semaine3\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:04:51.66Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

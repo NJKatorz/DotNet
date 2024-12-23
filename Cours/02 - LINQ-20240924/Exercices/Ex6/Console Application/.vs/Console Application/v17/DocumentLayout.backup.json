@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\02 - LINQ-20240924\\Exercices\\Ex6\\Console Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE11F039-3429-4B42-BE8C-7F90AC160B98}|Console Application.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\02 - linq-20240924\\exercices\\ex6\\console application\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE11F039-3429-4B42-BE8C-7F90AC160B98}|Console Application.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE11F039-3429-4B42-BE8C-7F90AC160B98}|Console Application.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\02 - linq-20240924\\exercices\\ex6\\console application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE11F039-3429-4B42-BE8C-7F90AC160B98}|Console Application.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\02 - LINQ-20240924\\Exercices\\Ex6\\Console Application\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\02 - LINQ-20240924\\Exercices\\Ex6\\Console Application\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:49:56.019Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\02 - LINQ-20240924\\Exercices\\Ex6\\Console Application\\Test.cs",
+              "RelativeDocumentMoniker": "Test.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\02 - LINQ-20240924\\Exercices\\Ex6\\Console Application\\Test.cs",
+              "RelativeToolTip": "Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:06:33.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

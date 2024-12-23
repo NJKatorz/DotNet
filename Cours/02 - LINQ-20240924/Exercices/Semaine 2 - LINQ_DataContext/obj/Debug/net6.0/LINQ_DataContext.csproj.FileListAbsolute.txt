@@ -1,0 +1,11 @@
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Semaine 2 - LINQ_DataContext\bin\Debug\net6.0\LINQ_DataContext.deps.json
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Semaine 2 - LINQ_DataContext\bin\Debug\net6.0\LINQ_DataContext.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Semaine 2 - LINQ_DataContext\bin\Debug\net6.0\LINQ_DataContext.pdb
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\LINQ_DataContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\LINQ_DataContext.AssemblyInfoInputs.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\LINQ_DataContext.AssemblyInfo.cs
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\LINQ_DataContext.csproj.CoreCompileInputs.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\LINQ_DataContext.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\refint\LINQ_DataContext.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\LINQ_DataContext.pdb
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\02 - LINQ-20240924\Exercices\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\ref\LINQ_DataContext.dll

@@ -1,0 +1,14 @@
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\Cours1\obj\Debug\net8.0\Cours1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\Cours1\obj\Debug\net8.0\Cours1.AssemblyInfoInputs.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\Cours1\obj\Debug\net8.0\Cours1.AssemblyInfo.cs
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\Cours1\obj\Debug\net8.0\Cours1.csproj.CoreCompileInputs.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\Cours1\bin\Debug\net8.0\Cours1.exe
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\Cours1\bin\Debug\net8.0\Cours1.deps.json
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\Cours1\bin\Debug\net8.0\Cours1.runtimeconfig.json
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\Cours1\bin\Debug\net8.0\Cours1.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\Cours1\bin\Debug\net8.0\Cours1.pdb
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\Cours1\obj\Debug\net8.0\Cours1.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\Cours1\obj\Debug\net8.0\refint\Cours1.dll
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\Cours1\obj\Debug\net8.0\Cours1.pdb
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\Cours1\obj\Debug\net8.0\Cours1.genruntimeconfig.cache
+D:\Ecole\OneDrive - Haute Ecole Léonard de Vinci\Documents\IPL\Bloc 3\Q1\ProgrammationSpecialisee\DotNet\Cours1\obj\Debug\net8.0\ref\Cours1.dll

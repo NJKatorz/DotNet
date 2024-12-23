@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nortwind_API.props" />
+</Project>

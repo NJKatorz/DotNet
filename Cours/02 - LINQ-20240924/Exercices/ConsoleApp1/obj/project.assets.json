@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "LINQ_DataContext/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LINQ_DataContext.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LINQ_DataContext.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ_DataContext/1.0.0": {
+      "type": "project",
+      "path": "../Semaine 2 - LINQ_DataContext/LINQ_DataContext.csproj",
+      "msbuildProject": "../Semaine 2 - LINQ_DataContext/LINQ_DataContext.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "LINQ_DataContext >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\natha\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Ecole\\OneDrive - Haute Ecole Léonard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\02 - LINQ-20240924\\Exercices\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "D:\\Ecole\\OneDrive - Haute Ecole Léonard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\02 - LINQ-20240924\\Exercices\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
+      "outputPath": "D:\\Ecole\\OneDrive - Haute Ecole Léonard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\02 - LINQ-20240924\\Exercices\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Ecole\\OneDrive - Haute Ecole Léonard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\02 - LINQ-20240924\\Exercices\\Semaine 2 - LINQ_DataContext\\LINQ_DataContext.csproj": {
+              "projectPath": "D:\\Ecole\\OneDrive - Haute Ecole Léonard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\02 - LINQ-20240924\\Exercices\\Semaine 2 - LINQ_DataContext\\LINQ_DataContext.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

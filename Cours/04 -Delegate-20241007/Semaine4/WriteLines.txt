@@ -1,0 +1,4 @@
+File Logger: This is a custom log message.
+File Logger: This is a second custom log message
+File Logger: This is a custom log message.
+File Logger: This is a second custom log message
