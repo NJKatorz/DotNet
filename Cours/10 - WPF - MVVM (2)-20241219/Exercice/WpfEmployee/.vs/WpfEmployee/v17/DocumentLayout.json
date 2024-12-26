@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\viewmodels\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:viewmodels\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\viewmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:viewmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\viewmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:viewmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,10 +44,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natha\\AppData\\Local\\Temp\\.vsdbgsrc\\993bcf049a2f3befc5f0f5536758c8ae5c426ba70a22150e328f08628647f12d\\PropertyPathWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,76 +53,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NorthwindContext.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Models\\NorthwindContext.cs",
-              "RelativeDocumentMoniker": "Models\\NorthwindContext.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Models\\NorthwindContext.cs",
-              "RelativeToolTip": "Models\\NorthwindContext.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAA/wDsAAACLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:36:03.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeVM.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\EmployeeVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\EmployeeVM.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\EmployeeVM.cs",
-              "RelativeToolTip": "ViewModels\\EmployeeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T18:49:17.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderVM.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\OrderVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\OrderVM.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\OrderVM.cs",
-              "RelativeToolTip": "ViewModels\\OrderVM.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:25:43.325Z",
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T13:53:32.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmployeeModel.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\EmployeeModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\EmployeeModel.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\EmployeeModel.cs",
-              "RelativeToolTip": "ViewModels\\EmployeeModel.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA2wCoAAABJAAAAAAAAAA==",
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T18:36:38.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T13:53:31.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:17:41.402Z",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-23T17:53:43.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Models\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "Models\\NorthwindContext.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Models\\NorthwindContext.cs",
+              "RelativeToolTip": "Models\\NorthwindContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:36:03.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeVM.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\EmployeeVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EmployeeVM.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\EmployeeVM.cs",
+              "RelativeToolTip": "ViewModels\\EmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:49:17.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:13:30.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "DelegateCommand.cs",
               "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\DelegateCommand.cs",
               "RelativeDocumentMoniker": "ViewModels\\DelegateCommand.cs",
@@ -118,32 +137,57 @@
               "RelativeToolTip": "ViewModels\\DelegateCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T21:10:39.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T21:10:39.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EmployeeModel.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\EmployeeModel.cs",
+              "RelativeToolTip": "ViewModels\\EmployeeModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:36:38.466Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Views\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Views\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Title": "OrderVM.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\OrderVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\OrderVM.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\OrderVM.cs",
+              "RelativeToolTip": "ViewModels\\OrderVM.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T19:13:30.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T14:25:43.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:17:41.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "PropertyPathWorker.cs",
               "DocumentMoniker": "C:\\Users\\natha\\AppData\\Local\\Temp\\.vsdbgsrc\\993bcf049a2f3befc5f0f5536758c8ae5c426ba70a22150e328f08628647f12d\\PropertyPathWorker.cs",
               "ToolTip": "C:\\Users\\natha\\AppData\\Local\\Temp\\.vsdbgsrc\\993bcf049a2f3befc5f0f5536758c8ae5c426ba70a22150e328f08628647f12d\\PropertyPathWorker.cs",
               "ViewState": "AgIAAOIEAAAAAAAAAAAawLIEAAAEAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T19:39:58.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T19:39:58.417Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

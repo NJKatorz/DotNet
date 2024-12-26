@@ -57,7 +57,7 @@ namespace WpfEmployee.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=Northwind;MultipleActiveResultSets=True");
+                optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=Northwind;MultipleActiveResultSets=True").LogTo(Console.WriteLine, LogLevel.Information).EnableSensitiveDataLogging();
                           //.UseLazyLoadingProxies()
                           //.LogTo(Console.WriteLine, LogLevel.Information)
                           //.EnableSensitiveDataLogging();
