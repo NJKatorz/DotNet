@@ -57,9 +57,9 @@
             </StackPanel>
             <StackPanel Grid.Column="1" Margin="0,0,0,10" DataContext="{Binding SelectedItem, ElementName=listProducts}">
                 <TextBox Height="27" Margin="6,6,6,5" Text="{Binding ProductID}" IsReadOnly="True" />
-                <TextBox Height="27" Margin="6,6,6,5" Text="{Binding ProductName}"/>
+                <TextBox Height="27" Margin="6,6,6,5" Text="{Binding ProductName, UpdateSourceTrigger=PropertyChanged}"/>
                 <TextBox Height="27" Margin="6,6,6,5" Text="{Binding SupplierContactName}" IsReadOnly="True"/>
-                <TextBox Height="27" Margin="6,6,6,5" Text="{Binding QauntityPerUnit}"/>
+                    <TextBox Height="27" Margin="6,6,6,5" Text="{Binding QauntityPerUnit, UpdateSourceTrigger=PropertyChanged}"/>
             </StackPanel>
             <Button Command ="{Binding SaveCommand}" Content="Maj" Margin="200,165,212,10" Grid.Column="1"/>
 
