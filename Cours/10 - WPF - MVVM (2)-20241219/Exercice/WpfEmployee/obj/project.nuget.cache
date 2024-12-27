@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nYW9+WUG8Wo=",
+  "dgSpecHash": "EiwPEbXKjt0=",
   "success": true,
-  "projectFilePath": "D:\\Ecole\\OneDrive - Haute Ecole Léonard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\WpfEmployee.csproj",
+  "projectFilePath": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\WpfEmployee.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\natha\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\natha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
