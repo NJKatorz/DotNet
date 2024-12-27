@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JBp0rEKjQ18=",
+  "dgSpecHash": "fNZVltff2us=",
   "success": true,
-  "projectFilePath": "D:\\Ecole\\OneDrive - Haute Ecole Léonard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Nortwind_API.csproj",
+  "projectFilePath": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Nortwind_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\natha\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\natha\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

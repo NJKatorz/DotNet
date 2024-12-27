@@ -1,53 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\",
+  "WorkspaceRootPath": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\07 - recap amp asyncawait-20241107\\nortwind_api\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\dotnet\\cours\\07 - recap amp asyncawait-20241107\\nortwind_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\07 - recap amp asyncawait-20241107\\nortwind_api\\repositories\\baserepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:repositories\\baserepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\07 - recap amp asyncawait-20241107\\nortwind_api\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\07 - recap amp asyncawait-20241107\\nortwind_api\\unitofwork\\unitofworksql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:unitofwork\\unitofworksql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\07 - recap amp asyncawait-20241107\\nortwind_api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\dotnet\\cours\\07 - recap amp asyncawait-20241107\\nortwind_api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\07 - recap amp asyncawait-20241107\\nortwind_api\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\dotnet\\cours\\07 - recap amp asyncawait-20241107\\nortwind_api\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\07 - recap amp asyncawait-20241107\\nortwind_api\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\dotnet\\cours\\07 - recap amp asyncawait-20241107\\nortwind_api\\repositories\\baserepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:repositories\\baserepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\07 - recap amp asyncawait-20241107\\nortwind_api\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natha\\AppData\\Local\\Temp\\Rar$DIa33056.4151.rartemp\\ProductModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\07 - recap amp asyncawait-20241107\\nortwind_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\dotnet\\cours\\07 - recap amp asyncawait-20241107\\nortwind_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\07 - recap amp asyncawait-20241107\\nortwind_api\\entities\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natha\\AppData\\Local\\Temp\\Rar$DIa33056.41754.rartemp\\ProductsVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natha\\AppData\\Local\\Temp\\Rar$DIa33056.40815.rartemp\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\dotnet\\cours\\07 - recap amp asyncawait-20241107\\nortwind_api\\unitofwork\\unitofworksql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:unitofwork\\unitofworksql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\dotnet\\cours\\07 - recap amp asyncawait-20241107\\nortwind_api\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\dotnet\\cours\\07 - recap amp asyncawait-20241107\\nortwind_api\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\dotnet\\cours\\07 - recap amp asyncawait-20241107\\nortwind_api\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\dotnet\\cours\\07 - recap amp asyncawait-20241107\\nortwind_api\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\dotnet\\cours\\07 - recap amp asyncawait-20241107\\nortwind_api\\entities\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:entities\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\07 - recap amp asyncawait-20241107\\nortwind_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\dotnet\\cours\\07 - recap amp asyncawait-20241107\\nortwind_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\07 - recap amp asyncawait-20241107\\nortwind_api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|d:\\ecole\\dotnet\\cours\\07 - recap amp asyncawait-20241107\\nortwind_api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50010459-5ACC-4E0F-B7E9-0881229A2AC8}|Nortwind_API.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,15 +71,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:02:57.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\AppData\\Local\\Temp\\Rar$DIa33056.4151.rartemp\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\natha\\AppData\\Local\\Temp\\Rar$DIa33056.4151.rartemp\\ProductModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:45:32.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Controllers\\OrderController.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Controllers\\OrderController.cs",
               "RelativeToolTip": "Controllers\\OrderController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,11 +110,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Repositories\\IRepository.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IRepository.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Repositories\\IRepository.cs",
               "RelativeToolTip": "Repositories\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -88,76 +123,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Entities\\Employee.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "Entities\\Employee.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Entities\\Employee.cs",
               "RelativeToolTip": "Entities\\Employee.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA7wAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:41:12.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T10:41:12.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\UnitOfWork\\IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\UnitOfWork\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "UnitOfWork\\IUnitOfWork.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\UnitOfWork\\IUnitOfWork.cs",
               "RelativeToolTip": "UnitOfWork\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T17:45:19.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "Entities\\Order.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Entities\\Order.cs",
-              "RelativeToolTip": "Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:22:46.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T18:25:13.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T17:45:19.368Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UnitOfWorkSQL.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\UnitOfWork\\UnitOfWorkSQL.cs",
-              "RelativeDocumentMoniker": "UnitOfWork\\UnitOfWorkSQL.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\UnitOfWork\\UnitOfWorkSQL.cs",
-              "RelativeToolTip": "UnitOfWork\\UnitOfWorkSQL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T17:51:46.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "BaseRepositorySQL.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Repositories\\BaseRepositorySQL.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Repositories\\BaseRepositorySQL.cs",
               "RelativeDocumentMoniker": "Repositories\\BaseRepositorySQL.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Repositories\\BaseRepositorySQL.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Repositories\\BaseRepositorySQL.cs",
               "RelativeToolTip": "Repositories\\BaseRepositorySQL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,28 +160,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeeDTO.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\DTO\\EmployeeDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\EmployeeDTO.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\DTO\\EmployeeDTO.cs",
-              "RelativeToolTip": "DTO\\EmployeeDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\AppData\\Local\\Temp\\Rar$DIa33056.40815.rartemp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\natha\\AppData\\Local\\Temp\\Rar$DIa33056.40815.rartemp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T18:15:49.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2024-12-26T23:43:18.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
+              "Title": "ProductsVM.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\AppData\\Local\\Temp\\Rar$DIa33056.41754.rartemp\\ProductsVM.cs",
+              "ToolTip": "C:\\Users\\natha\\AppData\\Local\\Temp\\Rar$DIa33056.41754.rartemp\\ProductsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:43:28.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Order.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Entities\\Order.cs",
+              "RelativeToolTip": "Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:22:46.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:25:13.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWorkSQL.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\UnitOfWork\\UnitOfWorkSQL.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\UnitOfWorkSQL.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\UnitOfWork\\UnitOfWorkSQL.cs",
+              "RelativeToolTip": "UnitOfWork\\UnitOfWorkSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:51:46.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\DTO\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\EmployeeDTO.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\DTO\\EmployeeDTO.cs",
+              "RelativeToolTip": "DTO\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:15:49.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "NorthwindContext.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Entities\\NorthwindContext.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Entities\\NorthwindContext.cs",
               "RelativeDocumentMoniker": "Entities\\NorthwindContext.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Entities\\NorthwindContext.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Entities\\NorthwindContext.cs",
               "RelativeToolTip": "Entities\\NorthwindContext.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -195,11 +240,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,11 +252,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\WeatherForecast.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\07 - Recap amp asyncawait-20241107\\Nortwind_API\\WeatherForecast.cs",
               "RelativeToolTip": "WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
