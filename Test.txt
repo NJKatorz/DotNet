@@ -103,3 +103,43 @@ Name="dgCustomers"
 
     }
 
+
+
+
+
+
+
+
+
+
+
+
+
+ <StackPanel Margin="220,10,10,10" HorizontalAlignment="Left" Width="300" DataContext="{Binding SelectedItem, ElementName=ProductList}">
+     <!-- Diagnostic des données sélectionnées -->
+     <TextBlock Text="Diagnostic SelectedProduct:" FontWeight="Bold" />
+     <TextBlock Text="{Binding SelectedProduct.ProductId}" />
+     <TextBlock Text="{Binding SelectedProduct.ProductName}" />
+     <TextBlock Text="{Binding SelectedProduct.SupplierContactName}" />
+     <TextBlock Text="{Binding SelectedProduct.QuantityPerUnit}" />
+     <!-- ID du produit (non modifiable) -->
+     <TextBlock Text="Product ID:" />
+     <TextBox Text="{Binding SelectedProduct.ProductId}" IsEnabled="False" />
+
+     <!-- Nom du produit -->
+     <TextBlock Text="Product Name:" Margin="0,10,0,0"/>
+     <TextBox Text="{Binding SelectedProduct.ProductName}" />
+
+     <!-- Nom du contact du fournisseur (non modifiable) -->
+     <TextBlock Text="Supplier Contact Name:" Margin="0,10,0,0"/>
+     <TextBox Text="{Binding SelectedProduct.SupplierContactName}" IsEnabled="False" />
+
+     <!-- Quantité par unité -->
+     <TextBlock Text="Quantity Per Unit:" Margin="0,10,0,0"/>
+     <TextBox Text="{Binding SelectedProduct.QuantityPerUnit}" />
+
+     <!-- Bouton Maj -->
+     <Button Content="Maj" Command="{Binding UpdateProductCommand}" />
+ </StackPanel>
+
+

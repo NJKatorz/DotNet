@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Ecole\\DotNet\\Exams\\Examen_Septembre_2022\\ExamSept2022\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F176B8C-6BC8-48C7-82A0-B081D0D3C90D}|ExamSept2022.csproj|d:\\ecole\\dotnet\\exams\\examen_septembre_2022\\examsept2022\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0F176B8C-6BC8-48C7-82A0-B081D0D3C90D}|ExamSept2022.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F176B8C-6BC8-48C7-82A0-B081D0D3C90D}|ExamSept2022.csproj|d:\\ecole\\dotnet\\exams\\examen_septembre_2022\\examsept2022\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F176B8C-6BC8-48C7-82A0-B081D0D3C90D}|ExamSept2022.csproj|solutionrelative:models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F176B8C-6BC8-48C7-82A0-B081D0D3C90D}|ExamSept2022.csproj|d:\\ecole\\dotnet\\exams\\examen_septembre_2022\\examsept2022\\viewmodels\\productsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F176B8C-6BC8-48C7-82A0-B081D0D3C90D}|ExamSept2022.csproj|solutionrelative:viewmodels\\productsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F176B8C-6BC8-48C7-82A0-B081D0D3C90D}|ExamSept2022.csproj|d:\\ecole\\dotnet\\exams\\examen_septembre_2022\\examsept2022\\viewmodels\\productsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F176B8C-6BC8-48C7-82A0-B081D0D3C90D}|ExamSept2022.csproj|solutionrelative:viewmodels\\productsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F176B8C-6BC8-48C7-82A0-B081D0D3C90D}|ExamSept2022.csproj|d:\\ecole\\dotnet\\exams\\examen_septembre_2022\\examsept2022\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F176B8C-6BC8-48C7-82A0-B081D0D3C90D}|ExamSept2022.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F176B8C-6BC8-48C7-82A0-B081D0D3C90D}|ExamSept2022.csproj|d:\\ecole\\dotnet\\exams\\examen_septembre_2022\\examsept2022\\viewmodels\\productsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F176B8C-6BC8-48C7-82A0-B081D0D3C90D}|ExamSept2022.csproj|solutionrelative:viewmodels\\productsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F176B8C-6BC8-48C7-82A0-B081D0D3C90D}|ExamSept2022.csproj|d:\\ecole\\dotnet\\exams\\examen_septembre_2022\\examsept2022\\viewmodels\\ordersdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "NorthwindContext.cs",
               "DocumentMoniker": "D:\\Ecole\\DotNet\\Exams\\Examen_Septembre_2022\\ExamSept2022\\Models\\NorthwindContext.cs",
               "RelativeDocumentMoniker": "Models\\NorthwindContext.cs",
               "ToolTip": "D:\\Ecole\\DotNet\\Exams\\Examen_Septembre_2022\\ExamSept2022\\Models\\NorthwindContext.cs",
               "RelativeToolTip": "Models\\NorthwindContext.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAIwFMAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAIwEsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T14:15:07.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Ecole\\DotNet\\Exams\\Examen_Septembre_2022\\ExamSept2022\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
@@ -59,19 +59,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ProductsModel.cs",
               "DocumentMoniker": "D:\\Ecole\\DotNet\\Exams\\Examen_Septembre_2022\\ExamSept2022\\ViewModels\\ProductsModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\ProductsModel.cs",
               "ToolTip": "D:\\Ecole\\DotNet\\Exams\\Examen_Septembre_2022\\ExamSept2022\\ViewModels\\ProductsModel.cs",
               "RelativeToolTip": "ViewModels\\ProductsModel.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAADIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAIAwwDEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T12:35:41.63Z"
+              "WhenOpened": "2024-12-26T12:35:41.63Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductsVM.cs",
               "DocumentMoniker": "D:\\Ecole\\DotNet\\Exams\\Examen_Septembre_2022\\ExamSept2022\\ViewModels\\ProductsVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\ProductsVM.cs",
@@ -79,8 +80,7 @@
               "RelativeToolTip": "ViewModels\\ProductsVM.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAowFEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T12:40:20.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T12:40:20.014Z"
             },
             {
               "$type": "Document",

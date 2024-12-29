@@ -28,7 +28,7 @@ namespace ExamJanv2023.ViewModels
 
         private ProductsModel _selectedProduct;
         private ObservableCollection<ProductsModel> _productsList;
-        private List<dynamic> _productsSoldByCountry;
+        private List<ProductsSalesModel> _productsSoldByCountry;
 
 
         private DelegateCommand _discontinueCommand;
@@ -49,7 +49,7 @@ namespace ExamJanv2023.ViewModels
             }
         }
 
-        public List<dynamic> ProductsSoldByCountry
+        public List<ProductsSalesModel> ProductsSoldByCountry
         {
             get
             {
@@ -75,9 +75,10 @@ namespace ExamJanv2023.ViewModels
             return products;
         }
 
-        private List<dynamic> loadProductsSoldByCountry()
+        private List<ProductsSalesModel> loadProductsSoldByCountry()
         {
-            List<dynamic> localCollection = dc.OrderDetails
+            List<ProductsSalesModel> localCollection = new List<ProductsSalesModel>();
+            var productSales = dc.OrderDetails
                 .Where(od => od.Quantity > 0) // Filtrer les lignes de commande avec au moins une vente
                 .Select(od => new { od.Product.Supplier.Country, od.Product.ProductName })
                 .GroupBy(p => p.Country)
@@ -86,8 +87,13 @@ namespace ExamJanv2023.ViewModels
                     Country = g.Key,
                     ProductCount = g.Select(p => p.ProductName).Distinct().Count()
                 })
-                .OrderByDescending(p => p.ProductCount)
-                .ToList<dynamic>();
+                .OrderByDescending(p => p.ProductCount);
+
+            foreach (var item in productSales)
+            {
+
+                localCollection.Add(new ProductsSalesModel(item.Country, item.ProductCount));
+            }
 
             return localCollection;
         }
