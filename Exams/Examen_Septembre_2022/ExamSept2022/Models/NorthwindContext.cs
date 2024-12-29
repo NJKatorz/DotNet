@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 
 namespace ExamSept2022.Models;
 
@@ -80,7 +81,7 @@ public partial class NorthwindContext : DbContext
         {
             optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=Northwind;MultipleActiveResultSets=True")
                       .UseLazyLoadingProxies()
-                      .LogTo(Console.WriteLine)
+                      .LogTo(Console.WriteLine, LogLevel.Information)
                       .EnableSensitiveDataLogging();
         }
     }

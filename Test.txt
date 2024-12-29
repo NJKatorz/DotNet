@@ -1,5 +1,7 @@
 Test Oui
 
+Name="dgCustomers"
+
 
 <Window x:Class="ExamSept2022.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
@@ -25,4 +27,79 @@ Test Oui
 
     </Grid>
 </Window>
+
+
+    class ProductVM : INotifyPropertyChanged
+    {
+        private NorthwindContext dc = new NorthwindContext();
+
+        private ProductModel _selectedProduct;
+
+
+        // Property changed standard handling
+        public event PropertyChangedEventHandler PropertyChanged; // La view s'enregistera automatiquement sur cet event
+        protected virtual void OnPropertyChanged(string propertyName)
+        {
+            if (PropertyChanged != null)
+            {
+                PropertyChanged(this, new PropertyChangedEventArgs(propertyName)); // On notifie que la propriété a changé
+            }
+        }
+
+        private DelegateCommand _saveCommand;
+
+
+        private ObservableCollection<ProductModel> _productsList;
+
+
+        public ObservableCollection<ProductModel> ProductsList
+        {
+            get
+            {
+                return _productsList = loadProducts();
+
+            }
+        }
+
+
+        private ObservableCollection<ProductModel> loadProducts()
+        {
+            ObservableCollection<ProductModel> products = new ObservableCollection<ProductModel>();
+            foreach (var product in dc.Products)
+            {
+                products.Add(new ProductModel(product));
+            }
+            return products;
+        }
+
+  
+
+        public ProductModel SelectedProduct
+        {
+            get { return _selectedProduct; }
+            set { _selectedProduct = value; }
+
+        }
+
+        public DelegateCommand SaveCommand
+        {
+            get
+            {
+                return _saveCommand = _saveCommand ?? new DelegateCommand(SaveProduct);
+            }
+        }
+
+        private void SaveProduct()
+        {
+            Product verif = dc.Products.Where(p => p.ProductId == SelectedProduct.MyProduct.ProductId).SingleOrDefault();
+            if (verif == null)
+            {
+                dc.Products.Add(SelectedProduct.MyProduct);
+            }
+
+            dc.SaveChanges();
+            MessageBox.Show("Enregistrement en base de données fait");
+        }
+
+    }
 
