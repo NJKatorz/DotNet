@@ -1,8 +1,10 @@
 ﻿using ExamJanv2023.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -41,6 +43,7 @@ namespace ExamJanv2023.ViewModels
             {
                 if (_productsList == null)
                 {
+
                     _productsList = loadProducts();
                 }
 
@@ -65,11 +68,12 @@ namespace ExamJanv2023.ViewModels
         private ObservableCollection<ProductsModel> loadProducts()
         {
             ObservableCollection<ProductsModel> products = new ObservableCollection<ProductsModel>();
-            foreach (var product in dc.Products)
+            foreach (Product product in dc.Products)
             {
                 if (product.Discontinued == false)
                 {
                     products.Add(new ProductsModel(product));
+
                 }
             }
             return products;
@@ -78,16 +82,19 @@ namespace ExamJanv2023.ViewModels
         private List<ProductsSalesModel> loadProductsSoldByCountry()
         {
             List<ProductsSalesModel> localCollection = new List<ProductsSalesModel>();
-            var productSales = dc.OrderDetails
-                .Where(od => od.Quantity > 0) // Filtrer les lignes de commande avec au moins une vente
-                .Select(od => new { od.Product.Supplier.Country, od.Product.ProductName })
-                .GroupBy(p => p.Country)
-                .Select(g => new
-                {
-                    Country = g.Key,
-                    ProductCount = g.Select(p => p.ProductName).Distinct().Count()
-                })
-                .OrderByDescending(p => p.ProductCount);
+            var productSales =
+                                dc.OrderDetails
+                                  .Where(od => od.Quantity > 0)
+                                  .Select(od => new { od.Product.Supplier.Country, od.Product.ProductName })
+                                  .Distinct()
+                                  .GroupBy(x => x.Country)
+                                  .Select(g => new
+                                  {
+                                      Country = g.Key,
+                                      ProductCount = g.Count()
+                                  })
+                                  .OrderByDescending(p => p.ProductCount)
+                                  .ToList();
 
             foreach (var item in productSales)
             {
@@ -115,7 +122,8 @@ namespace ExamJanv2023.ViewModels
 
         private void DiscontinueProduct()
         {
-            Product foundProduct = dc.Products.Where(p => p.ProductId == SelectedProduct.MyProduct.ProductId).SingleOrDefault();
+            // Trace.Write($"llskkskdksddsssssss {SelectedProduct.ProductId}");
+            Product foundProduct = dc.Products.Where(p => p.ProductId == SelectedProduct.ProductId).SingleOrDefault();
             foundProduct.Discontinued = true;
             dc.SaveChanges();
             ProductsList.Remove(SelectedProduct);

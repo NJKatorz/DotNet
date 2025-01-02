@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\01- C# vs Java-20240918\\Semaine1\\",
+  "WorkspaceRootPath": "D:\\Ecole\\DotNet\\Cours\\01- C# vs Java-20240918\\Semaine1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\01- c# vs java-20240918\\semaine1\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\01- c# vs java-20240918\\semaine1\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|solutionrelative:actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\01- c# vs java-20240918\\semaine1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|d:\\ecole\\dotnet\\cours\\01- c# vs java-20240918\\semaine1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\01- c# vs java-20240918\\semaine1\\personlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|d:\\ecole\\dotnet\\cours\\01- c# vs java-20240918\\semaine1\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|d:\\ecole\\dotnet\\cours\\01- c# vs java-20240918\\semaine1\\personlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|solutionrelative:personlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\01- c# vs java-20240918\\semaine1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\01- c# vs java-20240918\\semaine1\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|d:\\ecole\\dotnet\\cours\\01- c# vs java-20240918\\semaine1\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|solutionrelative:movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|d:\\ecole\\onedrive - haute ecole l\u00E9onard de vinci\\documents\\ipl\\bloc 3\\q1\\programmationspecialisee\\dotnet\\01- c# vs java-20240918\\semaine1\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|d:\\ecole\\dotnet\\cours\\01- c# vs java-20240918\\semaine1\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|solutionrelative:director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|d:\\ecole\\dotnet\\cours\\01- c# vs java-20240918\\semaine1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|d:\\ecole\\dotnet\\cours\\01- c# vs java-20240918\\semaine1\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C36D0A-9959-432D-8597-15398FA08401}|Semaine1.csproj|solutionrelative:actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,27 +38,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\01- C# vs Java-20240918\\Semaine1\\Program.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\01- C# vs Java-20240918\\Semaine1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\01- C# vs Java-20240918\\Semaine1\\Program.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\01- C# vs Java-20240918\\Semaine1\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T23:14:16.525Z"
+              "WhenOpened": "2024-09-20T23:14:16.525Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Test.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\01- C# vs Java-20240918\\Semaine1\\Test.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\01- C# vs Java-20240918\\Semaine1\\Test.cs",
               "RelativeDocumentMoniker": "Test.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\01- C# vs Java-20240918\\Semaine1\\Test.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\01- C# vs Java-20240918\\Semaine1\\Test.cs",
               "RelativeToolTip": "Test.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,59 +68,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PersonList.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\01- C# vs Java-20240918\\Semaine1\\PersonList.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\01- C# vs Java-20240918\\Semaine1\\PersonList.cs",
               "RelativeDocumentMoniker": "PersonList.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\01- C# vs Java-20240918\\Semaine1\\PersonList.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\01- C# vs Java-20240918\\Semaine1\\PersonList.cs",
               "RelativeToolTip": "PersonList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T23:14:07.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\01- C# vs Java-20240918\\Semaine1\\Person.cs",
-              "RelativeDocumentMoniker": "Person.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\01- C# vs Java-20240918\\Semaine1\\Person.cs",
-              "RelativeToolTip": "Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T23:14:03.207Z"
+              "WhenOpened": "2024-09-20T23:14:07.218Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\01- C# vs Java-20240918\\Semaine1\\Movie.cs",
-              "RelativeDocumentMoniker": "Movie.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\01- C# vs Java-20240918\\Semaine1\\Movie.cs",
-              "RelativeToolTip": "Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\01- C# vs Java-20240918\\Semaine1\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\01- C# vs Java-20240918\\Semaine1\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T23:13:59.04Z"
+              "WhenOpened": "2024-09-20T23:14:03.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\01- C# vs Java-20240918\\Semaine1\\Movie.cs",
+              "RelativeDocumentMoniker": "Movie.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\01- C# vs Java-20240918\\Semaine1\\Movie.cs",
+              "RelativeToolTip": "Movie.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T23:13:59.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Director.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\01- C# vs Java-20240918\\Semaine1\\Director.cs",
+              "RelativeDocumentMoniker": "Director.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\01- C# vs Java-20240918\\Semaine1\\Director.cs",
+              "RelativeToolTip": "Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T23:13:41.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Director.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\01- C# vs Java-20240918\\Semaine1\\Director.cs",
-              "RelativeDocumentMoniker": "Director.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\01- C# vs Java-20240918\\Semaine1\\Director.cs",
-              "RelativeToolTip": "Director.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T23:13:41.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Actor.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\01- C# vs Java-20240918\\Semaine1\\Actor.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\01- C# vs Java-20240918\\Semaine1\\Actor.cs",
               "RelativeDocumentMoniker": "Actor.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\01- C# vs Java-20240918\\Semaine1\\Actor.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\01- C# vs Java-20240918\\Semaine1\\Actor.cs",
               "RelativeToolTip": "Actor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
