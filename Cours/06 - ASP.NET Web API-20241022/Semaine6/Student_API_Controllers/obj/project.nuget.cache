@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cw1o9CLclHs=",
+  "dgSpecHash": "R2x04f2WNVM=",
   "success": true,
-  "projectFilePath": "D:\\Ecole\\OneDrive - Haute Ecole Léonard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\06 - ASP.NET Web API-20241022\\Semaine6\\Student_API_Controllers\\Student_API_Controllers.csproj",
+  "projectFilePath": "D:\\Ecole\\DotNet\\Cours\\06 - ASP.NET Web API-20241022\\Semaine6\\Student_API_Controllers\\Student_API_Controllers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\natha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\natha\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
