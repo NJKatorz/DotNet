@@ -127,10 +127,16 @@ namespace WpfEmployee.ViewModels
             {
                 EmployeeId = 0, // Initialise l'ID à une valeur par défaut si nécessaire
                                 // Initialise d'autres propriétés si besoin
+                LastName = "Esa",
+                FirstName = "Nat", 
+                // TitleOfCourtesy = "Mr.",
+
             };
             EmployeeModel employeeModel = new EmployeeModel(employee);
             EmployeesList.Add(employeeModel);
             SelectedEmployee = employeeModel;
+            MessageBox.Show("Création d'un enregistrement vide fait");
+
         }
 
         public DelegateCommand SaveCommand

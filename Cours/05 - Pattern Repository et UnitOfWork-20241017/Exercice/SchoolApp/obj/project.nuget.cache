@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xlsFZWnq88E=",
+  "dgSpecHash": "uovGYXrvuDU=",
   "success": true,
-  "projectFilePath": "D:\\Ecole\\OneDrive - Haute Ecole Léonard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\SchoolApp.csproj",
+  "projectFilePath": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\SchoolApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\natha\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\natha\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

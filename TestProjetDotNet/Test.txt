@@ -1,6 +1,53 @@
 Test Oui
 
+2012
+
 Name="dgCustomers"
+
+<Grid Grid.Column="1">
+    <StackPanel DataContext="{Binding SelectedItem, ElementName=listStudents}" HorizontalAlignment="Center">
+        <Label Content="StudentId " Margin="6" />
+        <TextBox Height="27" Margin="6,6,6,5" Text="{Binding StudentId, UpdateSourceTrigger=PropertyChanged}" IsEnabled="False"/>
+        <Label Content="Name " Margin="6" />
+        <TextBox Height="27" Margin="6,6,6,5" Text="{Binding Name, UpdateSourceTrigger=PropertyChanged}"/>
+        <Label Content="Firstname " Margin="6" />
+        <TextBox Height="27" Margin="6,6,6,5" Text="{Binding Firstname, UpdateSourceTrigger=PropertyChanged}"/>
+        <Label Content="YearResult " Margin="6" />
+        <TextBox Height="27" Margin="6,6,6,5" Text="{Binding YearResult, UpdateSourceTrigger=PropertyChanged}" Width="212"/>
+    </StackPanel>
+    <Button Command ="{Binding AddCommand}" Content="Add" Margin="65,320,246,49" />
+    <Button Command ="{Binding SaveCommand}" Content="Save" Margin="264,330,44,43"/>
+</Grid>
+
+ private void AddStudent()
+ {
+     // Trace.Write($"llskkskdksddsssssss {SelectedStudent.StudentId}");
+     // Créer une instance de l'entité Student à partir de SelectedStudent
+     if (string.IsNullOrWhiteSpace(SelectedStudent.Name) || string.IsNullOrWhiteSpace(SelectedStudent.Firstname))
+     {
+         MessageBox.Show("Veuillez remplir tous les champs obligatoires.");
+         return;
+     }
+ 
+
+     Student newStudent = new Student
+     {
+         StudentId = 0,
+         Name = SelectedStudent.Name,
+         Firstname = SelectedStudent.Firstname,                
+         YearResult = SelectedStudent.YearResult
+     };
+
+     // Ajouter l'étudiant à la base de données
+     dc.Students.Add(newStudent);
+     dc.SaveChanges(); // Sauvegarder pour générer un ID
+
+     // Ajouter à la liste observable
+     StudentsList.Add(new StudentsModel(newStudent));
+
+     MessageBox.Show("Ajout en base de données fait");
+
+ }
 
 
 <Window x:Class="ExamSept2022.MainWindow"

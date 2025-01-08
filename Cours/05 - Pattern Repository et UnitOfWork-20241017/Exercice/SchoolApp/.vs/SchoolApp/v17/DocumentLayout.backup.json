@@ -1,46 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\",
+  "WorkspaceRootPath": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\SectionRepositoryMemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\SectionRepositoryMemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|d:\\ecole\\dotnet\\cours\\05 - pattern repository et unitofwork-20241017\\exercice\\schoolapp\\repositories\\studentrepositorymemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|solutionrelative:repositories\\studentrepositorymemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\IStudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\IStudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|d:\\ecole\\dotnet\\cours\\05 - pattern repository et unitofwork-20241017\\exercice\\schoolapp\\repositories\\studentrepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|solutionrelative:repositories\\studentrepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\StudentRepositoryMemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\StudentRepositoryMemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|d:\\ecole\\dotnet\\cours\\05 - pattern repository et unitofwork-20241017\\exercice\\schoolapp\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|solutionrelative:repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|d:\\ecole\\dotnet\\cours\\05 - pattern repository et unitofwork-20241017\\exercice\\schoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\StudentRepositorySQLServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\StudentRepositorySQLServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|d:\\ecole\\dotnet\\cours\\05 - pattern repository et unitofwork-20241017\\exercice\\schoolapp\\repositories\\baserepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|solutionrelative:repositories\\baserepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\BaseRepositorySQL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\BaseRepositorySQL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|d:\\ecole\\dotnet\\cours\\05 - pattern repository et unitofwork-20241017\\exercice\\schoolapp\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|solutionrelative:repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|d:\\ecole\\dotnet\\cours\\05 - pattern repository et unitofwork-20241017\\exercice\\schoolapp\\unitofworks\\unitofworkschoolsqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|solutionrelative:unitofworks\\unitofworkschoolsqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\UnitOfWorks\\UnitOfWorkSchoolSQLServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnitOfWorks\\UnitOfWorkSchoolSQLServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|d:\\ecole\\dotnet\\cours\\05 - pattern repository et unitofwork-20241017\\exercice\\schoolapp\\unitofworks\\iunitofworkschool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|solutionrelative:unitofworks\\iunitofworkschool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\UnitOfWorks\\IUnitOfWorkSchool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnitOfWorks\\IUnitOfWorkSchool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\UnitOfWorks\\UnitOfWorkSchoolMemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnitOfWorks\\UnitOfWorkSchoolMemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|d:\\ecole\\dotnet\\cours\\05 - pattern repository et unitofwork-20241017\\exercice\\schoolapp\\unitofworks\\unitofworkschoolmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CF882-C7B0-4C0D-A8D1-2617EDC73402}|SchoolApp.csproj|solutionrelative:unitofworks\\unitofworkschoolmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,15 +46,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\IStudentRepository.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IStudentRepository.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\IStudentRepository.cs",
               "RelativeToolTip": "Repositories\\IStudentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,35 +67,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SectionRepositoryMemory.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\SectionRepositoryMemory.cs",
-              "RelativeDocumentMoniker": "Repositories\\SectionRepositoryMemory.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\SectionRepositoryMemory.cs",
-              "RelativeToolTip": "Repositories\\SectionRepositoryMemory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T22:17:35.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "StudentRepositoryMemory.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\StudentRepositoryMemory.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\StudentRepositoryMemory.cs",
               "RelativeDocumentMoniker": "Repositories\\StudentRepositoryMemory.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\StudentRepositoryMemory.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\StudentRepositoryMemory.cs",
               "RelativeToolTip": "Repositories\\StudentRepositoryMemory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T22:17:42.366Z"
+              "WhenOpened": "2024-10-23T22:17:42.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Program.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Program.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,23 +91,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "StudentRepositorySQLServer.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\StudentRepositorySQLServer.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\StudentRepositorySQLServer.cs",
               "RelativeDocumentMoniker": "Repositories\\StudentRepositorySQLServer.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\StudentRepositorySQLServer.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\StudentRepositorySQLServer.cs",
               "RelativeToolTip": "Repositories\\StudentRepositorySQLServer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T22:16:56.661Z"
+              "WhenOpened": "2024-10-23T22:16:56.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "BaseRepositorySQL.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\BaseRepositorySQL.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\BaseRepositorySQL.cs",
               "RelativeDocumentMoniker": "Repositories\\BaseRepositorySQL.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\BaseRepositorySQL.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\BaseRepositorySQL.cs",
               "RelativeToolTip": "Repositories\\BaseRepositorySQL.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAAADUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,11 +116,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\IRepository.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IRepository.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\Repositories\\IRepository.cs",
               "RelativeToolTip": "Repositories\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,11 +128,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "UnitOfWorkSchoolSQLServer.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\UnitOfWorks\\UnitOfWorkSchoolSQLServer.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\UnitOfWorks\\UnitOfWorkSchoolSQLServer.cs",
               "RelativeDocumentMoniker": "UnitOfWorks\\UnitOfWorkSchoolSQLServer.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\UnitOfWorks\\UnitOfWorkSchoolSQLServer.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\UnitOfWorks\\UnitOfWorkSchoolSQLServer.cs",
               "RelativeToolTip": "UnitOfWorks\\UnitOfWorkSchoolSQLServer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,11 +140,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "IUnitOfWorkSchool.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\UnitOfWorks\\IUnitOfWorkSchool.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\UnitOfWorks\\IUnitOfWorkSchool.cs",
               "RelativeDocumentMoniker": "UnitOfWorks\\IUnitOfWorkSchool.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\UnitOfWorks\\IUnitOfWorkSchool.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\UnitOfWorks\\IUnitOfWorkSchool.cs",
               "RelativeToolTip": "UnitOfWorks\\IUnitOfWorkSchool.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,11 +152,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "UnitOfWorkSchoolMemory.cs",
-              "DocumentMoniker": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\UnitOfWorks\\UnitOfWorkSchoolMemory.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\UnitOfWorks\\UnitOfWorkSchoolMemory.cs",
               "RelativeDocumentMoniker": "UnitOfWorks\\UnitOfWorkSchoolMemory.cs",
-              "ToolTip": "D:\\Ecole\\OneDrive - Haute Ecole L\u00E9onard de Vinci\\Documents\\IPL\\Bloc 3\\Q1\\ProgrammationSpecialisee\\DotNet\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\UnitOfWorks\\UnitOfWorkSchoolMemory.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\05 - Pattern Repository et UnitOfWork-20241017\\Exercice\\SchoolApp\\UnitOfWorks\\UnitOfWorkSchoolMemory.cs",
               "RelativeToolTip": "UnitOfWorks\\UnitOfWorkSchoolMemory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

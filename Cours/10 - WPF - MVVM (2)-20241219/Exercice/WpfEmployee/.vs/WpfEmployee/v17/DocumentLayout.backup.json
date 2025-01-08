@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\dotnet\\cours\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\dotnet\\cours\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\viewmodels\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:viewmodels\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\dotnet\\cours\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\dotnet\\cours\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\dotnet\\cours\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\viewmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:viewmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\dotnet\\cours\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\viewmodels\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +31,12 @@
       "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\dotnet\\cours\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\dotnet\\cours\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\dotnet\\cours\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\viewmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:viewmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\dotnet\\cours\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\dotnet\\cours\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\dotnet\\cours\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\ecole\\dotnet\\cours\\10 - wpf - mvvm (2)-20241219\\exercice\\wpfemployee\\viewmodels\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,39 +53,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-24T13:53:32.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "AssemblyInfo.cs",
-              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\AssemblyInfo.cs",
-              "RelativeToolTip": "AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T13:53:31.121Z",
+              "WhenOpened": "2024-12-22T19:13:30.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "EmployeeVM.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\EmployeeVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EmployeeVM.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\EmployeeVM.cs",
+              "RelativeToolTip": "ViewModels\\EmployeeVM.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAowJYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:49:17.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:17:41.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
@@ -97,7 +108,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EmployeeModel.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\EmployeeModel.cs",
+              "RelativeToolTip": "ViewModels\\EmployeeModel.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA5wAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:36:38.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:53:31.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "NorthwindContext.cs",
               "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Models\\NorthwindContext.cs",
               "RelativeDocumentMoniker": "Models\\NorthwindContext.cs",
@@ -109,32 +145,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeVM.cs",
-              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\EmployeeVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\EmployeeVM.cs",
-              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\EmployeeVM.cs",
-              "RelativeToolTip": "ViewModels\\EmployeeVM.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwBMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T18:49:17.799Z",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T13:53:32.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Views\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Views\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T19:13:30.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "OrderModel.cs",
               "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\OrderModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\OrderModel.cs",
@@ -142,8 +165,7 @@
               "RelativeToolTip": "ViewModels\\OrderModel.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:25:43.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T14:25:43.325Z"
             },
             {
               "$type": "Document",
@@ -156,30 +178,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T21:10:39.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeeModel.cs",
-              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\EmployeeModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\EmployeeModel.cs",
-              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\ViewModels\\EmployeeModel.cs",
-              "RelativeToolTip": "ViewModels\\EmployeeModel.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAswAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T18:36:38.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "D:\\Ecole\\DotNet\\Cours\\10 - WPF - MVVM (2)-20241219\\Exercice\\WpfEmployee\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:17:41.402Z"
             },
             {
               "$type": "Document",
