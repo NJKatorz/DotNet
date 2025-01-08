@@ -52,8 +52,7 @@
                 <Label Content="Firstname " Margin="6" />
                 <TextBox Height="27" Margin="6,6,6,5" Text="{Binding Firstname, UpdateSourceTrigger=PropertyChanged}"/>
                 <Label Content="YearResult " Margin="6" />
-                <TextBox Height="27" Margin="6,6,6,5" Text="{Binding YearResult, UpdateSourceTrigger=PropertyChanged}" Width="212"/>
-
+                <ComboBox ItemsSource="{Binding DataContext.YearResultsList, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" SelectedItem="{Binding YearResult}" />
             </StackPanel>
             <Button Command ="{Binding AddCommand}" Content="Add" Margin="51,334,283,49" />
             <Button Command ="{Binding RemoveCommand}" Content="Remove" Margin="158,334,158,49"/>

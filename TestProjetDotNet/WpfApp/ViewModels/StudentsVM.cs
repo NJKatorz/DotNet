@@ -29,6 +29,7 @@ namespace WpfApp.ViewModels
         private StudentsModel _selectedStudent;
         private ObservableCollection<StudentsModel> _studentsList;
         private ObservableCollection<StudentsModel> _students2020List;
+        private ObservableCollection<long> _yearResultsList;
 
         private DelegateCommand _addCommand;
         private DelegateCommand _removeCommand;
@@ -76,6 +77,18 @@ namespace WpfApp.ViewModels
             }
         }
 
+        public ObservableCollection<long> YearResultsList
+        {
+            get
+            {
+                if (_yearResultsList == null)
+                {
+                    _yearResultsList = loadYearResults();
+                }
+                return _yearResultsList;
+            }
+        }
+
 
 
 
@@ -103,6 +116,21 @@ namespace WpfApp.ViewModels
 
             return students2020List;
         }
+
+        private ObservableCollection<long> loadYearResults()
+        {
+            ObservableCollection<long> yearResults = new ObservableCollection<long>();
+            // Supposons que vous avez une collection source, par exemple dc.Students
+            var query = dc.Students.Select(s => s.YearResult).Distinct().ToList();
+            foreach (var item in query)
+            {
+                yearResults.Add(item);
+            }
+            return yearResults;
+
+        }
+
+
 
         public DelegateCommand AddCommand
         {

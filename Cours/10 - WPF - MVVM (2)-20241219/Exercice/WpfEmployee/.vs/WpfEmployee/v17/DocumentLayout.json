@@ -65,8 +65,7 @@
               "RelativeToolTip": "Views\\MainWindow.xaml.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T19:13:30.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T19:13:30.622Z"
             },
             {
               "$type": "Document",
@@ -78,8 +77,7 @@
               "RelativeToolTip": "ViewModels\\EmployeeVM.cs",
               "ViewState": "AgIAAHkAAAAAAAAAAAAowJYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T18:49:17.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T18:49:17.799Z"
             },
             {
               "$type": "Document",
@@ -91,8 +89,7 @@
               "RelativeToolTip": "Models\\Employee.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:17:41.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T14:17:41.402Z"
             },
             {
               "$type": "Document",
@@ -116,8 +113,7 @@
               "RelativeToolTip": "ViewModels\\EmployeeModel.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAA5wAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T18:36:38.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T18:36:38.466Z"
             },
             {
               "$type": "Document",
@@ -188,6 +184,10 @@
               "ViewState": "AgIAAOIEAAAAAAAAAAAawLIEAAAEAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T19:39:58.417Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
