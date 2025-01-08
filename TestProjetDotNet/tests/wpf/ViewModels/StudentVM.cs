@@ -77,13 +77,13 @@ namespace question1.ViewModels
 
         private void createStudent()
         {
-            var studentFound = context.Students.FirstOrDefault(p => p.Name.Equals("Vlaminck") && p.Firstname.Equals("Maxime"));
+            var studentFound = context.Students.FirstOrDefault(p => p.Name.Equals("Tests") && p.Firstname.Equals("Test"));
             if (studentFound == null)
             {
                 Student SGlobal = new Student();
                 StudentModel SModel = new StudentModel(SGlobal);
-                SModel.Name = "Vlaminck";
-                SModel.FirstName = "Maxime";
+                SModel.Name = "Tests";
+                SModel.FirstName = "Test";
                 SModel.Section = context.Sections.FirstOrDefault();
                 StudentList.Add(SModel);
             }
