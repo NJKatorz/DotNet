@@ -28,7 +28,7 @@
     <EmbeddedResource Include="photos\bruxelles.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="photos\jaime.png">
+    <EmbeddedResource Include="images\jaime.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
     <EmbeddedResource Include="photos\moscou.jpg">

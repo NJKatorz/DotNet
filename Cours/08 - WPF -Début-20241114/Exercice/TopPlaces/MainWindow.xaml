@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TopPlaces"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="800" Width="1058">
     <Window.Resources>
         <Style x:Key="TitreStyle">
             <Setter Property="Label.FontSize" Value="18" />
@@ -13,7 +13,7 @@
             <Setter Property="Label.BorderThickness" Value="2"/>
         </Style>
         <Style x:Key="LabelStyle">
-            <Setter Property="Label.FontFamily" Value="Courier New"/>
+            <Setter Property="Label.FontFamily" Value="courier new" />
         </Style>
         <DataTemplate x:Key="ItemTemplate">
             <StackPanel  Orientation="Horizontal" Margin="0 5 0 5">
@@ -44,7 +44,7 @@
 
         <Button Click="Button_Click" Grid.Column="1" Margin="39,667,8,48">
             <StackPanel Orientation="Horizontal">
-                <Image Source="photos/jaime.png" Height="35" Width="45" Margin="0,0,0,0" HorizontalAlignment="Left"/>
+                <Image Source="images/jaime.png" Height="35" Width="45" Margin="0,0,0,0" HorizontalAlignment="Left"/>
                 <TextBlock Text="Je vote pour" Width="124" Height="20"/>
             </StackPanel>
 
